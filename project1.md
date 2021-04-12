@@ -38,7 +38,7 @@ Fig 3. The scores sorted.
 ![screenshot](images/project_1_images/Average_of_the_scores.png)
 Fig 4. The average of the scores.
 
-![screenshot](images/project_1_images/Highest_Scores.png)
+![screenshot](images/project_1_images/Highest_Score.png)
 Fig 5. The highest score / winner.
 
 For more details see [GitHub Flavored Markdown](https://guides.github.com/features/mastering-markdown/).
