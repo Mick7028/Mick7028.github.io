@@ -51,16 +51,16 @@ Ethics Papers
 Presentations
 -------------
 
-### [Presentation 1 Title](/pdf/sample_presentation.pdf)
+### [Ransomware Attacks](/pdf/Security Presentation.pdf)
 
-- **Class:** 
-- **Grade:**
+- **Class: CSCI 301** 
+- **Grade: A**
 
 
-### [Presentation 2 Title](/pdf/sample_presentation.pdf)
-
-- **Class:** 
-- **Grade:**
+### [SQL Injections](/pdf/SQL Injection.pdf)
+ 
+- **Class: CSCI 352** 
+- **Grade: To Be Determined**
 
 ---
 
