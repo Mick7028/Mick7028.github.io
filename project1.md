@@ -6,7 +6,7 @@ Calculating Average Score and Winner
 -   **Class: CSCI 301** 
 -   **Grade: A**
 -   **Language(s): Perl**
--   **Source Code Repository:** [features/mastering-markdown](https://guides.github.com/features/mastering-markdown/)  
+-   **Source Code Repository:** [ Mick7028 / Project1 / lab4final.pl](https://github.com/Mick7028/Project1/blob/main/lab4final.pl)  
     (Please [email me](mailto:example@csustudent.net?subject=GitHub%20Access) to request access.)
 
 ## Project description
