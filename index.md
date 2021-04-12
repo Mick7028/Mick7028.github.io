@@ -31,20 +31,20 @@ Programming Projects
 Ethics Papers
 -------------
 
-### [Paper 1 Title](/pdf/sample_presentation.pdf)
+### [Think Ethically](/pdf/Ethics Paper 1.pdf)
 
--   **Class:**  
--   **Grade:**
+-   **Class:CSCI 332**  
+-   **Grade: A**
 
-### [Paper 2 Title](/pdf/sample_presentation.pdf)
+### [Ethics & Computing](/pdf/Ethics Paper 2.pdf)
 
--   **Class:** 
--   **Grade:**
+-   **Class: CSCI 301** 
+-   **Grade: A**
 
-### [Paper 3 Title](/pdf/sample_presentation.pdf)
+### [Can Hacking Be Ethical?](/pdf/Ethics Paper 3.pdf)
 
--   **Class:** 
--   **Grade:**
+-   **Class: CSCI 235** 
+-   **Grade: A**
 
 ---
 
