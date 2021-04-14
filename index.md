@@ -9,12 +9,12 @@ Programming Projects
 ---
 ### [Calculating Average Score and Winner | CSCI 301](project1)
 
-![](images/ScoreRanking.jpg)
+![Score Ranking](images/ScoreRanking.jpg)
 
 ---
-### [Project 2 Title | CSCI 315](project1)
+### [Mean, Median, and Mode Calculator | CSCI 325](project2)
 
-![Project 2 Thumbnail Name](images/dummy_thumbnail.jpg)
+![Menu of project2](images/project_2_images/All.png)
 
 ---
 ### [Project 3 Title | CSCI 325](project1)
