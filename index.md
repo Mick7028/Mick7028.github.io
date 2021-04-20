@@ -17,12 +17,12 @@ Programming Projects
 ![Menu of project2](images/project_2_images/All.png)
 
 ---
-### [Project 3 Title | CSCI 325](project1)
+### [Future Project](project1)
 
 ![Project 3 Thumbnail Name](images/dummy_thumbnail.jpg)
 
 ---
-### [Project 4 Title | CSCI 332](project1)
+### [Future Project](project1)
 
 ![Project 4 Thumbnail Name](images/dummy_thumbnail.jpg)
 
