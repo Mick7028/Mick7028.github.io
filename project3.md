@@ -1,12 +1,12 @@
 [Back to Portfolio](./)
 
-Calculating Average Score and Winner
+SEED Labs – Meltdown Attack Lab
 ===============
 
--   **Class: CSCI 301** 
--   **Grade: A**
--   **Language(s): Perl**
--   **Source Code Repository:** [ Mick7028 / Project1 / lab4final.pl](https://github.com/Mick7028/Project1/blob/main/lab4final.pl)  
+-   **Class: CSCI 452** 
+-   **Grade: TBA**
+-   **Language(s): C, Python**
+-   **Source Code Repository:** [ Mick7028 / Project1 / lab4final.pl](https://github.com/Mick7028/Mick7028.github.io/blob/master/pdf/Project%205%20Lab%20Report.pdf)  
     (Please [email me](mailto:example@csustudent.net?subject=GitHub%20Access) to request access.)
 
 ## Project description
