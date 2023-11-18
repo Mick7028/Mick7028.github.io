@@ -17,14 +17,20 @@ Programming Projects
 ![Menu of project2](images/project_2_images/All.png)
 
 ---
-### [Future Project](project1)
+### [Ruby on Rails Tutorial: Ch. 1 - 5 | CSCI 334](project3)
 
 ![Project 3 Thumbnail Name](images/dummy_thumbnail.jpg)
 
 ---
-### [Future Project](project1)
+### [SQL Injection Attack | CSCI 452](project4)
 
 ![Project 4 Thumbnail Name](images/dummy_thumbnail.jpg)
+
+---
+
+### [Meltdown Attack Lab | CSCI 452](project5)
+
+![Project 5 Thumbnail Name](images/dummy_thumbnail.jpg)
 
 ---
 
@@ -60,7 +66,7 @@ Presentations
 ### [SQL Injections](/pdf/SQL Injection.pdf)
  
 - **Class: CSCI 352** 
-- **Grade: To Be Determined**
+- **Grade: A**
 
 ---
 
