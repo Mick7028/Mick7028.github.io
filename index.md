@@ -19,18 +19,18 @@ Programming Projects
 ---
 ### [Ruby on Rails Tutorial: Ch. 1 - 5 | CSCI 334](project3)
 
-![Project 3 Thumbnail Name](images/dummy_thumbnail.jpg)
+![Project 3 Thumbnail Name](images/RubyOnRails.png)
 
 ---
 ### [SQL Injection Attack | CSCI 452](project4)
 
-![Project 4 Thumbnail Name](images/dummy_thumbnail.jpg)
+![Project 4 Thumbnail Name](images/Meltdown.png)
 
 ---
 
 ### [Meltdown Attack Lab | CSCI 452](project5)
 
-![Project 5 Thumbnail Name](images/dummy_thumbnail.jpg)
+![Project 5 Thumbnail Name](images/SQLInjection.png)
 
 ---
 
