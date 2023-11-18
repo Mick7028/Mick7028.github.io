@@ -24,13 +24,13 @@ Programming Projects
 ---
 ### [SQL Injection Attack | CSCI 452](project4)
 
-![Project 4 Thumbnail Name](images/Meltdown.png)
+![Project 4 Thumbnail Name](images/SQLInjection.png)
 
 ---
 
 ### [Meltdown Attack Lab | CSCI 452](project5)
 
-![Project 5 Thumbnail Name](images/SQLInjection.png)
+![Project 5 Thumbnail Name](images/Meltdown.png)
 
 ---
 
