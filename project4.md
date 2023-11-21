@@ -11,7 +11,7 @@ SQL Injection Project
 
 ## Project description
 
-
+In this SQL injection project, I investigated vulnerabilities in SQL statements, particularly targeting SELECT and UPDATE operations. Some of the tasks involved include understanding database structure and executing SQL injection attacks through web and command-line interfaces. The project then goes over manipulating data and showcasing the risks of insecure coding practices. To address these vulnerabilities, a countermeasure was implemented using prepared statements, which successfully defended against the SQL injection attempts emphasizing the importance of secure coding practices in database management systems.
 
 ## How to compile / run the program
 
