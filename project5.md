@@ -174,7 +174,7 @@ With these modifications, we should be able to successfully extract the full sec
 
 Altered code (lines 82-88):
 
-	void meltdown_asm(unsigned long kernel_data_addr, int idx)
+void meltdown_asm(unsigned long kernel_data_addr, int idx)
 {
    char kernel_data = 0;
    // Give eax register something to do
