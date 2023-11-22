@@ -6,7 +6,8 @@ Meltdown Attack Project
 -   **Class: CSCI 452** 
 -   **Grade: N/A**
 -   **Language(s): C**
--   **Source Code Repository:** [Mick7028 / Project1 / lab4final.pl](https://github.com/Mick7028/Project1/blob/main/lab4final.pl)  
+-   **Project Instructions:** [Project Instructions](https://github.com/Mick7028/Mick7028.github.io/blob/master/pdf/Project5%20Meltdown%20Attack%20Instructions.pdf)
+-   **Source Code Repository:** [Mick7028 / Mick7028.github.io / pdf / Project 5 Lab Report.pdf](https://github.com/Mick7028/Mick7028.github.io/blob/master/pdf/Project%205%20Lab%20Report.pdf)  
     (Please [email me](mailto:example@csustudent.net?subject=GitHub%20Access) to request access.)
 
 ## Project description

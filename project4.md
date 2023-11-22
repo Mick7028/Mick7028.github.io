@@ -6,7 +6,8 @@ SQL Injection Project
 -   **Class: CSCI 452** 
 -   **Grade: N/A**
 -   **Language(s): SQL**
--   **Source Code Repository:** [Mick7028 / Project1 / lab4final.pl](https://github.com/Mick7028/Project1/blob/main/lab4final.pl)  
+-   **Project Instructions:** [Project Instructions](https://github.com/Mick7028/Mick7028.github.io/blob/master/pdf/Project4%20SQL%20Injection%20Attack%20Instructions.pdf)
+-   **Source Code Repository:** [Mick7028 / Mick7028.github.io / pdf / Project 4 Lab Report.pdf](https://github.com/Mick7028/Mick7028.github.io/blob/master/pdf/Project%204%20Lab%20Report.pdf)  
     (Please [email me](mailto:example@csustudent.net?subject=GitHub%20Access) to request access.)
 
 ## Project description
