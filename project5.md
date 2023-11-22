@@ -12,7 +12,7 @@ Meltdown Attack Project
 
 ## Project description
 
-In this Meltdown Attack project, we explore cache-based side-channel vulnerabilities, focusing on a Meltdown. This project starts by understanding cache versus memory access, setting a threshold for cache hits, and demonstrating the use of cache as a side channel. Tasks include placing secret data in kernel space, attempting kernel memory access from user space, and implementing error handling. The Meltdown attack was then examined, initially with a naive approach, but later with refined methods to optimize cache behavior using assembly code. The project concluded with efforts to make the Meltdown attack more practical, including the identification and extraction of multiple bytes of secret data from kernel memory.
+In this project, we explore cache-based side-channel vulnerabilities, focusing on a Meltdown. This project starts by understanding cache versus memory access, setting a threshold for cache hits, and demonstrating the use of cache as a side channel. Tasks include placing secret data in kernel space, attempting kernel memory access from user space, and implementing error handling. The Meltdown attack was then examined, initially with a naive approach, but later with refined methods to optimize cache behavior using assembly code. The project concluded with efforts to make the Meltdown attack more practical, including the identification and extraction of multiple bytes of secret data from kernel memory.
 
 ## How to compile / run the program
 

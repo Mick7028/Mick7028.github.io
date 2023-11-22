@@ -12,6 +12,7 @@ Ruby on Rails Tutorial: Sample App
 
 ## Project description
  
+ In this project, we go over chapters 1-5 in the Ruby on Rails tutorial. This tutorial introduces the use of web development using the Ruby on Rails framework with the creation of a sign-up webpage that creates an account for the user.
 
 ## How to compile / run the program
 
@@ -24,7 +25,7 @@ The user interface of this program is a website.
 ![screenshot](images/project_3_images/Home_Page.png)
 **Fig 1. Home Page**
 
-![screenshot](images/project_3_images/Signup_page.png)
+![screenshot](images/project_3_images/Signup_Page.png)
 **Fig 2. Signup Page**
 
 ![screenshot](images/project_3_images/About_Page.png)
