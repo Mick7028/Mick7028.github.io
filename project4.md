@@ -118,6 +118,4 @@ To test if the prepared statements worked, we can do the SQL Injection from task
 ![screenshot](images/project_4_images/image8.2.png)
 **Fig 15. Task 4: Countermeasure — Prepared Statement**
 
-For more details see [GitHub Flavored Markdown](https://guides.github.com/features/mastering-markdown/).
-
 [Back to Portfolio](./)

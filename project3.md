@@ -1,46 +1,39 @@
 [Back to Portfolio](./)
 
-SEED Labs – Meltdown Attack Lab
+Ruby on Rails Tutorial: Sample App
 ===============
 
 -   **Class: CSCI 452** 
--   **Grade: TBA**
--   **Language(s): C, Python**
--   **Source Code Repository:** [ Mick7028 / Project1 / lab4final.pl](https://github.com/Mick7028/Mick7028.github.io/blob/master/pdf/Project%205%20Lab%20Report.pdf)  
+-   **Grade: A**
+-   **Language(s): Ruby, HTML, CSS, JavaScript**
+-   **Source Code Repository:** [ Mick7028 / Sample_App / tree / main / app / controllers](https://github.com/Mick7028/sample_app/tree/main/app/controllers)  
     (Please [email me](mailto:example@csustudent.net?subject=GitHub%20Access) to request access.)
+-   **Website Server:** [Sample_App](https://throbbing-pond-4766.fly.dev/)
 
 ## Project description
-
-This program sorts (highest to lowest) a text file containing lines of names with their score, calculates the average score of the participants, and then determines the highest score. The program reads the original text file of scores, and then creates three new text files for a sorted list of scores, the average of the scores, and the highest score. 
+ 
 
 ## How to compile / run the program
 
-How to compile (if applicable) and run the project.
-
-```bash
-cd ./lab04
-perl lab4.pl
-```
+How to compile (if applicable) and run the project: N/A
 
 ## UI Design
 
-The user interface of this program is command line, but since it does create text files the results will be shown below.
+The user interface of this program is a website.
 
-![screenshot](images/project_1_images/Command Executed.png)
-Fig 1. Compiling the program.
+![screenshot](images/project_3_images/Home_Page.png)
+**Fig 1. Home Page**
 
-![screenshot](images/project_1_images/Scores_Unsorted.png)
-Fig 2. The original list of scores.
+![screenshot](images/project_3_images/Signup_page.png)
+**Fig 2. Signup Page**
 
-![screenshot](images/project_1_images/Scores_Sorted.png)
-Fig 3. The scores sorted.
+![screenshot](images/project_3_images/About_Page.png)
+**Fig 3. About Page**
 
-![screenshot](images/project_1_images/Average_of_the_scores.png)
-Fig 4. The average of the scores.
+![screenshot](images/project_3_images/Help_Page.png)
+**Fig 4. Help Page**
 
-![screenshot](images/project_1_images/Highest_Score.png)
-Fig 5. The highest score / winner.
-
-For more details see [GitHub Flavored Markdown](https://guides.github.com/features/mastering-markdown/).
+![screenshot](images/project_3_images/Contact_Page.png)
+**Fig 5. Contact Page**
 
 [Back to Portfolio](./)

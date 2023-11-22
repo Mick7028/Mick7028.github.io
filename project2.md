@@ -26,20 +26,18 @@ While inside the project press "F9" to compile and "shift + F6" to run the progr
 The user interface of this program is a graphical user interface which was made using javafx. The menu has a text box for inserting data, and then buttons that call functions to edit the data in the text box. There is also a button for exiting the program.
 
 ![screenshot](images/project_2_images/Menu.png)
-Fig 1. The default view when the program is ran.
+**Fig 1. The default view when the program is ran.**
 
 ![screenshot](images/project_2_images/Mean.png)
-Fig 2. Calculating mean.
+**Fig 2. Calculating mean.**
 
 ![screenshot](images/project_2_images/Median.png)
-Fig 3. Calculating median.
+**Fig 3. Calculating median.**
 
 ![screenshot](images/project_2_images/Mode.png)
-Fig 4. Calculating mode.
+**Fig 4. Calculating mode.**
 
 ![screenshot](images/project_2_images/All.png)
-Fig 5. Calculating mean, median, and mode.
-
-For more details see [GitHub Flavored Markdown](https://guides.github.com/features/mastering-markdown/).
+**Fig 5. Calculating mean, median, and mode.**
 
 [Back to Portfolio](./)

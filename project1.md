@@ -27,20 +27,18 @@ perl lab4.pl
 The user interface of this program is command line, but since it does create text files the results will be shown below.
 
 ![screenshot](images/project_1_images/Command Executed.png)
-Fig 1. Compiling the program.
+**Fig 1. Compiling the program.**
 
 ![screenshot](images/project_1_images/Scores_Unsorted.png)
-Fig 2. The original list of scores.
+**Fig 2. The original list of scores.**
 
 ![screenshot](images/project_1_images/Scores_Sorted.png)
-Fig 3. The scores sorted.
+**Fig 3. The scores sorted.**
 
 ![screenshot](images/project_1_images/Average_of_the_scores.png)
-Fig 4. The average of the scores.
+**Fig 4. The average of the scores.**
 
 ![screenshot](images/project_1_images/Highest_Score.png)
-Fig 5. The highest score / winner.
-
-For more details see [GitHub Flavored Markdown](https://guides.github.com/features/mastering-markdown/).
+**Fig 5. The highest score / winner.**
 
 [Back to Portfolio](./)

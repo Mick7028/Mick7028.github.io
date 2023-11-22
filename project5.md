@@ -26,7 +26,7 @@ The user interface of this project is in command line.
 ## Task 1: Reading from Cache versus from Memory
 
 ![screenshot](images/project_5_images/image1.png)
-Fig 1. Task 1: Reading from Cache versus from Memory
+**Fig 1. Task 1: Reading from Cache versus from Memory**
 
 After performing 10 runs of the program, the access of arrays [3*4096] and [7*4096] are faster than the other elements. The array that consistently took the longest to run was array[0*4096] which ran over 900 CPU cycles each time, but on the 9th run array[8*4096] ran 1056 CPU cycles but on all the other times the program ran it performed around 200 CPU cycles which proves it is necessary to run the program multiple times.
 
@@ -191,7 +191,5 @@ Altered code (lines 82-88):
    kernel_data = *(char*)kernel_data_addr;  
    array[idx*4096 + DELTA] += 1;              
 }
-
-For more details see [GitHub Flavored Markdown](https://guides.github.com/features/mastering-markdown/).
 
 [Back to Portfolio](./)
