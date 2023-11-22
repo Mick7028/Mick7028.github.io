@@ -25,7 +25,7 @@ The user interface of this project is in command line and on a website.
 ## Task 1: Get Familiar with SQL Statements
 
 ![screenshot](images/project_4_images/image1.png)
-Fig 1. Get Familiar with SQL Statements
+**Fig 1. Task 1: Get Familiar with SQL Statements**
 
 The SQL command needed to print all of the profile information of the employee Alice is: **SELECT * FROM credential WHERE Name = 'Alice';**
 
