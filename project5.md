@@ -6,8 +6,8 @@ Meltdown Attack Project
 -   **Class: CSCI 452** 
 -   **Grade: N/A**
 -   **Language(s): C**
--   **Project Instructions:** [Project Instructions](https://github.com/Mick7028/Mick7028.github.io/blob/master/pdf/Project5%20Meltdown%20Attack%20Instructions.pdf)
--   **Source Code Repository:** [Mick7028 / Mick7028.github.io / pdf / Project 5 Lab Report.pdf](https://github.com/Mick7028/Mick7028.github.io/blob/master/pdf/Project%205%20Lab%20Report.pdf)  
+-   **Project Instructions:** [Project Instructions](https://github.com/Mick7028/Meltdown_Attack_Project)
+-   **Source Code Repository:** [Mick7028 / Meltdown_Attack_Project](https://github.com/Mick7028/Meltdown_Attack_Project)  
     (Please [email me](mailto:example@csustudent.net?subject=GitHub%20Access) to request access.)
 
 ## Project description
@@ -17,7 +17,6 @@ In this project, we explore cache-based side-channel vulnerabilities, focusing o
 ## How to compile / run the program
 
 How to compile (if applicable) and run the project: N/A
-
 
 ## UI Design
 

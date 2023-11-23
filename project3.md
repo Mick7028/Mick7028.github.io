@@ -6,7 +6,7 @@ Ruby on Rails Tutorial: Sample App
 -   **Class: CSCI 452** 
 -   **Grade: A**
 -   **Language(s): Ruby, HTML, CSS, JavaScript**
--   **Source Code Repository:** [ Mick7028 / Sample_App / tree / main / app / controllers](https://github.com/Mick7028/sample_app/tree/main/app/controllers)  
+-   **Source Code Repository:** [ Mick7028 / Sample_App](https://github.com/Mick7028/sample_app)  
     (Please [email me](mailto:example@csustudent.net?subject=GitHub%20Access) to request access.)
 -   **Website Server:** [Sample_App](https://throbbing-pond-4766.fly.dev/)
 

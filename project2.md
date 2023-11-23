@@ -6,7 +6,7 @@ Mean, Median, Mode Calculator
 -   **Class: CSCI 325** 
 -   **Grade: A**
 -   **Language(s): Java**
--   **Source Code Repository:** [ Mick7028 / Project2 / lab05final.java](https://github.com/Mick7028/Project2/blob/main/Lab05final.java)  
+-   **Source Code Repository:** [ Mick7028 / Project2 / lab05final.java](https://github.com/Mick7028/Project2)  
     (Please [email me](mailto:example@csustudent.net?subject=GitHub%20Access) to request access.)
 
 ## Project description
