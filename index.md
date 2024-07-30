@@ -1,12 +1,16 @@
 # Portfolio
+===
 
 ## <a href="https://github.com/Mick7028/CSU-Senior-Project/blob/master/docs/Defense_Documentation.md">Senior Project<a/>
 
 ![VR Language Immersion Activity](images/Hover_Name.jpg)
 
+---
+
 ## Programming Projects
 
----
+===
+
 ### [Calculating Average Score and Winner | CSCI 301](project1)
 
 ![Score Ranking](images/ScoreRanking.jpg)
