@@ -1,5 +1,5 @@
 # Portfolio
-===
+---
 
 ## <a href="https://github.com/Mick7028/CSU-Senior-Project/blob/master/docs/Defense_Documentation.md">Senior Project<a/>
 
@@ -9,7 +9,7 @@
 
 ## Programming Projects
 
-===
+---
 
 ### [Calculating Average Score and Winner | CSCI 301](project1)
 
