@@ -1,15 +1,11 @@
-Portfolio
+# Portfolio
 
-=========
-
-  
-## <a href="https://github.com/Mick7028/CSU-Senior-Project/blob/master/docs/Defense_Documentation.md">Senior Project<a/>
  
+## <a href="https://github.com/Mick7028/CSU-Senior-Project/blob/master/docs/Defense_Documentation.md">Senior Project<a/>
+
 ![VR Language Immersion Activity](images/Hover_Name.jpg)
 
-Programming Projects 
-
---------------------
+## Programming Projects
 
 *For access to my private project repositories, please [email me](mailto:mlnicholson@csustudent.net?subject=GitHub%20Access) with the subject line, GitHub Access.
 
