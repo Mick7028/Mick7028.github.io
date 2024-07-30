@@ -1,13 +1,10 @@
 # Portfolio
 
- 
 ## <a href="https://github.com/Mick7028/CSU-Senior-Project/blob/master/docs/Defense_Documentation.md">Senior Project<a/>
 
 ![VR Language Immersion Activity](images/Hover_Name.jpg)
 
 ## Programming Projects
-
-*For access to my private project repositories, please [email me](mailto:mlnicholson@csustudent.net?subject=GitHub%20Access) with the subject line, GitHub Access.
 
 ---
 ### [Calculating Average Score and Winner | CSCI 301](project1)
@@ -72,6 +69,8 @@ Presentations
 - **Grade: A**
 
 ---
+
+*For access to my private project repositories, please [email me](mailto:mlnicholson@csustudent.net?subject=GitHub%20Access) with the subject line, GitHub Access.
 
 <p style="font-size:11px">Page template forked from <a href="https://github.com/csu-cs/csci-portfolio">CSU-CS</a></p>
 <!-- Remove above link if you don't want to attributive -->
