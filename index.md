@@ -1,42 +1,34 @@
 # Portfolio
----
 
 ## <a href="https://github.com/Mick7028/CSU-Senior-Project/blob/master/docs/Defense_Documentation.md" target="_blank">Senior Project<a/>
 
 ![VR Language Immersion Activity](images/Hover_Name.jpg)
 
----
 
 ## Programming Projects
 
----
 
 ### [Calculating Average Score and Winner | CSCI 301](project1)
 
 ![Score Ranking](images/ScoreRanking.jpg)
 
----
 ### [Mean, Median, and Mode Calculator | CSCI 325](project2)
 
 ![Menu of project2](images/project_2_images/All.png)
 
----
 ### [Ruby on Rails Tutorial: Ch. 1 - 5 | CSCI 334](project3)
 
 ![Project 3 Thumbnail Name](images/RubyOnRails.png)
 
----
 ### [SQL Injection Attack | CSCI 452](project4)
 
 ![Project 4 Thumbnail Name](images/SQLInjection.png)
 
----
 
 ### [Meltdown Attack Lab | CSCI 452](project5)
 
 ![Project 5 Thumbnail Name](images/Meltdown.png)
 
----
 
 Ethics Papers
 -------------
