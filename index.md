@@ -1,7 +1,7 @@
 # Portfolio
 ---
 
-## <a href="https://github.com/Mick7028/CSU-Senior-Project/blob/master/docs/Defense_Documentation.md">Senior Project<a/>
+## <a href="https://github.com/Mick7028/CSU-Senior-Project/blob/master/docs/Defense_Documentation.md" target="_blank">Senior Project<a/>
 
 ![VR Language Immersion Activity](images/Hover_Name.jpg)
 
