@@ -97,29 +97,33 @@ The user interface of this program is a website.
     --heading-color: #ffffff; /* Light heading color for dark mode */
   }
 
+  /* Apply background and text colors globally */
   body {
     background-color: var(--background-color);
     color: var(--text-color);
   }
 
+  /* Ensure headings inherit colors */
   h1, h2, h3, h4, h5, h6 {
     color: var(--heading-color);
   }
 
+  /* Ensure links adapt */
   a {
     color: var(--link-color);
   }
 
-  /* Ensure lists and bullet points inherit the text color */
-  ul, ol, li {
-    color: var(--text-color);
+  /* Ensure list items and nested elements inherit text color */
+  ul, ol, li, p, span, div, strong, em, b, i {
+    color: var(--text-color) !important;
   }
 
-  /* Specific styles for list headers if needed */
+  /* Add a small margin for better list readability */
   ul > li, ol > li {
     margin-bottom: 0.5rem;
   }
 
+  /* Toggle button styling */
   .theme-toggle {
     position: fixed;
     top: 10px;
@@ -134,3 +138,4 @@ The user interface of this program is a website.
     cursor: pointer;
   }
 </style>
+
