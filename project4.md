@@ -3,6 +3,11 @@ layout: default
 title: Project 4
 ---
 
+<!-- Dark Mode Toggle -->
+<div class="theme-toggle">
+  <button id="toggleTheme" onclick="toggleTheme()">🌙</button>
+</div>
+
 [Back to Portfolio](./)
 
 SQL Injection Project
@@ -124,3 +129,73 @@ To test if the prepared statements worked, we can do the SQL Injection from task
 **Fig 15. Task 4: Countermeasure — Prepared Statement**
 
 [Back to Portfolio](./)
+
+<script>
+  // Function to toggle theme and update button icon
+  function toggleTheme() {
+    const body = document.body;
+    const button = document.getElementById("toggleTheme");
+
+    if (body.classList.contains("dark-mode")) {
+      body.classList.remove("dark-mode");
+      localStorage.setItem("theme", "light");
+      button.textContent = "☀️"; // Show sun for day mode
+    } else {
+      body.classList.add("dark-mode");
+      localStorage.setItem("theme", "dark");
+      button.textContent = "🌙"; // Show moon for night mode
+    }
+  }
+
+  // Set default theme on page load and update button icon
+  document.addEventListener("DOMContentLoaded", () => {
+    const body = document.body;
+    const button = document.getElementById("toggleTheme");
+    const savedTheme = localStorage.getItem("theme");
+
+    if (savedTheme === "dark") {
+      body.classList.add("dark-mode");
+      button.textContent = "🌙"; // Show moon for night mode
+    } else {
+      body.classList.remove("dark-mode");
+      button.textContent = "☀️"; // Show sun for day mode
+    }
+  });
+</script>
+
+<style>
+  :root {
+    --background-color: #ffffff;
+    --text-color: #000000;
+    --link-color: #1a73e8;
+  }
+
+  body.dark-mode {
+    --background-color: #121212;
+    --text-color: #e0e0e0;
+    --link-color: #bb86fc;
+  }
+
+  body {
+    background-color: var(--background-color);
+    color: var(--text-color);
+  }
+
+  a {
+    color: var(--link-color);
+  }
+
+  .theme-toggle {
+    position: fixed;
+    top: 10px;
+    right: 10px;
+    z-index: 1000;
+  }
+
+  #toggleTheme {
+    background: none;
+    border: none;
+    font-size: 1.5rem;
+    cursor: pointer;
+  }
+</style>
