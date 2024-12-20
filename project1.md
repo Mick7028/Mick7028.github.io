@@ -1,3 +1,8 @@
+---
+layout: default
+title: Project 1
+---
+
 [Back to Portfolio](./)
 
 Calculating Average Score and Winner
