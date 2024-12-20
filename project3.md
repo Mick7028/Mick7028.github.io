@@ -1,3 +1,8 @@
+---
+layout: default
+title: Project 3
+---
+
 [Back to Portfolio](./)
 
 Ruby on Rails Tutorial: Sample App
