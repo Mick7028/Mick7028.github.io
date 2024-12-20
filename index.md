@@ -134,7 +134,6 @@ title: Home
     --text-color: #000000;
     --link-color: #1a73e8;
     --heading-color: #000000; /* Default heading color */
-    --list-item-color: #000000; /* Default list item color */
   }
 
   body.dark-mode {
@@ -142,33 +141,35 @@ title: Home
     --text-color: #e0e0e0;
     --link-color: #bb86fc;
     --heading-color: #ffffff; /* Light heading color for dark mode */
-    --list-item-color: #e0e0e0; /* Light list item color for dark mode */
   }
 
+  /* Apply background and text colors globally */
   body {
     background-color: var(--background-color);
     color: var(--text-color);
   }
 
+  /* Ensure headings inherit colors */
   h1, h2, h3, h4, h5, h6 {
     color: var(--heading-color);
   }
 
+  /* Ensure links adapt */
   a {
     color: var(--link-color);
   }
 
-  /* Ensure lists and bullet points inherit the correct color */
-  ul, ol, li, li span {
-    color: var(--list-item-color);
+  /* Ensure list items and nested elements inherit text color */
+  ul, ol, li, p, span, div, strong, em, b, i {
+    color: var(--text-color) !important;
   }
 
-  /* Specific styles for list items with inline spans */
-  li > span {
-    display: inline-block;
-    color: var(--list-item-color);
+  /* Add a small margin for better list readability */
+  ul > li, ol > li {
+    margin-bottom: 0.5rem;
   }
 
+  /* Toggle button styling */
   .theme-toggle {
     position: fixed;
     top: 10px;
