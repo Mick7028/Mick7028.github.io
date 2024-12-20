@@ -1,3 +1,8 @@
+---
+layout: default
+title: Project 2
+---
+
 [Back to Portfolio](./)
 
 Mean, Median, Mode Calculator
