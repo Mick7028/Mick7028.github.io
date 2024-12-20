@@ -3,17 +3,20 @@
 title: Michael Nicholson # Your name
 logo: "/images/profpic.jpg" # Path to your photo or logo
 description: > # Your description below
-  CSCI 496: Senior Portfolio  
-  In partial fulfillment of the requirements for the degree of  
-  Bachelor of Science in Cybersecurity (class of December 2023)  
+  <p>CSCI 496: Senior Portfolio</p>
+  <p>In partial fulfillment of the requirements for the degree of <br />
+  Bachelor of Science in Cybersecurity (class of December 2023)</p>
 
-  [View My Resume](https://mick7028.github.io/pdf/Resume%20August%202024.pdf)  
-  [View My LinkedIn Profile](https://www.linkedin.com/in/michael-nicholson-329451161/)
+  <p>
+    <a href="https://mick7028.github.io/pdf/Resume%20August%202024.pdf" target="_blank">View My Resume</a>
+    <br />
+    <a href="https://www.linkedin.com/in/michael-nicholson-329451161/" target="_blank">View My LinkedIn Profile</a>
+  </p>
 repository: "Mick7028/Mick7028.github.io" # Your repository
 github_username: Mick7028 # Your GitHub username
 google_analytics: "" # Add your tracking ID or leave blank if not using
 
 # Build Settings
-theme: jekyll-theme-minimal # Use the Cayman theme for a modern, clean look
+theme: jekyll-theme-cayman # Use the Cayman theme for a modern, clean look
 baseurl: "" # Leave blank for a user site (https://Mick7028.github.io)
 url: "https://mick7028.github.io" # Your website URL
