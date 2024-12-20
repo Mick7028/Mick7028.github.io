@@ -1,4 +1,10 @@
 # Site Settings
+defaults:
+  - scope:
+      path: "" # Applies to all pages
+      type: "pages"
+    values:
+      layout: default
 # Personalize your site with the following information.
 title: Michael Nicholson # Your name
 logo: "/images/profpic.jpg" # Path to your photo or logo
