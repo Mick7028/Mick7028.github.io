@@ -248,17 +248,23 @@ void meltdown_asm(unsigned long kernel_data_addr, int idx)
     --background-color: #ffffff;
     --text-color: #000000;
     --link-color: #1a73e8;
+    --heading-color: #000000; /* Default heading color */
   }
 
   body.dark-mode {
     --background-color: #121212;
     --text-color: #e0e0e0;
     --link-color: #bb86fc;
+    --heading-color: #ffffff; /* Light heading color for dark mode */
   }
 
   body {
     background-color: var(--background-color);
     color: var(--text-color);
+  }
+
+  h1, h2, h3, h4, h5, h6 {
+    color: var(--heading-color);
   }
 
   a {
