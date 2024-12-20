@@ -1,3 +1,8 @@
+---
+layout: default
+title: Project 4
+---
+
 [Back to Portfolio](./)
 
 SQL Injection Project
