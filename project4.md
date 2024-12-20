@@ -191,6 +191,16 @@ To test if the prepared statements worked, we can do the SQL Injection from task
     color: var(--link-color);
   }
 
+  /* Ensure lists and bullet points inherit the text color */
+  ul, ol, li {
+    color: var(--text-color);
+  }
+
+  /* Specific styles for list headers if needed */
+  ul > li, ol > li {
+    margin-bottom: 0.5rem;
+  }
+
   .theme-toggle {
     position: fixed;
     top: 10px;
