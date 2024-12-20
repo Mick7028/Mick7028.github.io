@@ -14,6 +14,6 @@ github_username: Mick7028 # Your GitHub username
 google_analytics: "" # Add your tracking ID or leave blank if not using
 
 # Build Settings
-theme: jekyll-theme-cayman # Use the Cayman theme for a modern, clean look
+theme: jekyll-theme-minimal # Use the Cayman theme for a modern, clean look
 baseurl: "" # Leave blank for a user site (https://Mick7028.github.io)
 url: "https://mick7028.github.io" # Your website URL
