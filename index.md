@@ -156,14 +156,8 @@ title: Home
     color: var(--link-color);
   }
 
-  /* Ensure lists and bullet points inherit the text color */
-  ul, ol, li {
-    color: var(--text-color);
-  }
-
-  /* Specific styles for list headers if needed */
-  ul > li, ol > li {
-    margin-bottom: 0.5rem;
+  ul, ol, li, p, span {
+    color: var(--text-color); /* Ensure all text inherits correct color */
   }
 
   .theme-toggle {
