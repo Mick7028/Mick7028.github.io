@@ -1,22 +1,14 @@
 # Portfolio
 
+---
+
 ## Navigation
 
 - [Senior Project](#senior-project)
 - [Programming Projects](#programming-projects)
-  - [Calculating Average Score and Winner | CSCI 301](#calculating-average-score-and-winner--csci-301)
-  - [Mean, Median, and Mode Calculator | CSCI 325](#mean-median-and-mode-calculator--csci-325)
-  - [Ruby on Rails Tutorial: Ch. 1 - 5 | CSCI 334](#ruby-on-rails-tutorial-ch-1---5--csci-334)
 - [Lab Projects](#lab-projects)
-  - [SQL Injection Attack | CSCI 452](#sql-injection-attack--csci-452)
-  - [Meltdown Attack Lab | CSCI 452](#meltdown-attack-lab--csci-452)
 - [Ethics Papers](#ethics-papers)
-  - [Think Ethically](#think-ethically)
-  - [Ethics & Computing](#ethics--computing)
-  - [Can Hacking Be Ethical?](#can-hacking-be-ethical)
 - [Presentations](#presentations)
-  - [Ransomware Attacks](#ransomware-attacks)
-  - [SQL Injections](#sql-injections)
 - [Contact for Private Repositories](#contact-for-private-repositories)
 
 ---
