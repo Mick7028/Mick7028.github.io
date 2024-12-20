@@ -15,8 +15,9 @@
 
 ## <a href="https://github.com/Mick7028/CSU-Senior-Project/blob/master/docs/Defense_Documentation.md" target="_blank">Senior Project</a>
 
-![VR Language Immersion Activity]({{ site.baseurl }}/images/Hover_Name.jpg)
-
+<a href="https://github.com/Mick7028/CSU-Senior-Project/blob/master/docs/Defense_Documentation.md" target="_blank">
+  ![VR Language Immersion Activity](images/Hover_Name.jpg)
+</a>
 
 ## Programming Projects
 
@@ -24,15 +25,15 @@
 
 ### [Calculating Average Score and Winner | CSCI 301](project1)
 
-![Score Ranking](images/ScoreRanking.jpg)
+[![Score Ranking](images/ScoreRanking.jpg)](project1)
 
 ### [Mean, Median, and Mode Calculator | CSCI 325](project2)
 
-![Menu of project2](images/project_2_images/All.png)
+[![Menu of project2](images/project_2_images/All.png)](project2)
 
 ### [Ruby on Rails Tutorial: Ch. 1 - 5 | CSCI 334](project3)
 
-![Project 3 Thumbnail Name](images/RubyOnRails.png)
+[![Project 3 Thumbnail Name](images/RubyOnRails.png)](project3)
 
 ## Lab Projects
 
@@ -40,15 +41,13 @@
 
 ### [SQL Injection Attack | CSCI 452](project4)
 
-![Project 4 Thumbnail Name](images/SQLInjection.png)
-
+[![Project 4 Thumbnail Name](images/SQLInjection.png)](project4)
 
 ### [Meltdown Attack Lab | CSCI 452](project5)
 
-![Project 5 Thumbnail Name](images/Meltdown.png)
+[![Project 5 Thumbnail Name](images/Meltdown.png)](project5)
 
-
-Ethics Papers
+## Ethics Papers
 -------------
 
 ### [Think Ethically](/pdf/Ethics Paper 1.pdf)
@@ -68,20 +67,25 @@ Ethics Papers
 
 ---
 
-Presentations
+## Presentations
 -------------
 
 ### [Ransomware Attacks](/pdf/Security Presentation.pdf)
 
-- **Class: CSCI 301** 
+[![Ransomware Attacks](images/Ransomware.png)](/pdf/Security Presentation.pdf)
+
+- **Class: CSCI 301**  
 - **Grade: A**
 
-
 ### [SQL Injections](/pdf/SQL Injection.pdf)
- 
-- **Class: CSCI 352** 
+
+[![SQL Injections](images/SQLInjectionPresentation.png)](/pdf/SQL Injection.pdf)
+
+- **Class: CSCI 352**  
 - **Grade: A**
 
 ---
 
-*For access to my private project repositories, please [email me](mailto:michaelson1999@gmail.com?subject=GitHub%20Access) with the subject line, GitHub Access.
+## Contact for Private Repositories
+
+*For access to my private project repositories, please [email me](mailto:michaelson1999@gmail.com?subject=GitHub%20Access) with the subject line, GitHub Access.*
