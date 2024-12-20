@@ -114,6 +114,16 @@ The user interface of this program is command line, but since it does create tex
     color: var(--link-color);
   }
 
+  /* Ensure lists and bullet points inherit the text color */
+  ul, ol, li {
+    color: var(--text-color);
+  }
+
+  /* Specific styles for list headers if needed */
+  ul > li, ol > li {
+    margin-bottom: 0.5rem;
+  }
+
   .theme-toggle {
     position: fixed;
     top: 10px;
