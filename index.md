@@ -134,6 +134,7 @@ title: Home
     --text-color: #000000;
     --link-color: #1a73e8;
     --heading-color: #000000; /* Default heading color */
+    --list-item-color: #000000; /* Default list item color */
   }
 
   body.dark-mode {
@@ -141,6 +142,7 @@ title: Home
     --text-color: #e0e0e0;
     --link-color: #bb86fc;
     --heading-color: #ffffff; /* Light heading color for dark mode */
+    --list-item-color: #e0e0e0; /* Light list item color for dark mode */
   }
 
   body {
@@ -156,8 +158,15 @@ title: Home
     color: var(--link-color);
   }
 
-  ul, ol, li, p, span {
-    color: var(--text-color); /* Ensure all text inherits correct color */
+  /* Ensure lists and bullet points inherit the correct color */
+  ul, ol, li, li span {
+    color: var(--list-item-color);
+  }
+
+  /* Specific styles for list items with inline spans */
+  li > span {
+    display: inline-block;
+    color: var(--list-item-color);
   }
 
   .theme-toggle {
