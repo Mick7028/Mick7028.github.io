@@ -68,18 +68,13 @@
 ---
 
 ## Presentations
--------------
 
 ### [Ransomware Attacks](/pdf/Security Presentation.pdf)
-
-[![Ransomware Attacks](images/Ransomware.png)](/pdf/Security Presentation.pdf)
 
 - **Class: CSCI 301**  
 - **Grade: A**
 
 ### [SQL Injections](/pdf/SQL Injection.pdf)
-
-[![SQL Injections](images/SQLInjectionPresentation.png)](/pdf/SQL Injection.pdf)
 
 - **Class: CSCI 352**  
 - **Grade: A**
