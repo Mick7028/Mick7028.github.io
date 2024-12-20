@@ -1,7 +1,5 @@
 # Portfolio
 
----
-
 ## Navigation
 
 - [Senior Project](#senior-project)
