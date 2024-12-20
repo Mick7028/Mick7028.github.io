@@ -8,14 +8,16 @@ description: > # Your description below
 
   <p>
     <a href="https://mick7028.github.io/pdf/Resume%20August%202024.pdf" target="_blank">View My Resume</a>
-    <br />
+    | 
     <a href="https://www.linkedin.com/in/michael-nicholson-329451161/" target="_blank">View My LinkedIn Profile</a>
+    | 
+    <a href="https://github.com/Mick7028" target="_blank">View My GitHub Profile</a>
   </p>
 repository: "Mick7028/Mick7028.github.io" # Your repository
 github_username: Mick7028 # Your GitHub username
 google_analytics: "" # Add your tracking ID or leave blank if not using
 
 # Build Settings
-theme: jekyll-theme-minimal # Use the Cayman theme for a modern, clean look
+theme: jekyll-theme-minimal # Retain the minimal theme with a sidebar
 baseurl: "" # Leave blank for a user site (https://Mick7028.github.io)
 url: "https://mick7028.github.io" # Your website URL
