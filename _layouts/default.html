@@ -1,3 +1,7 @@
+---
+layout: minimal
+---
+
 <!DOCTYPE html>
 <html lang="en">
 <head>
@@ -59,11 +63,11 @@
       if (body.classList.contains("dark-mode")) {
         body.classList.remove("dark-mode");
         localStorage.setItem("theme", "light");
-        button.textContent = "☀️"; // Show sun for day mode
+        button.textContent = "🌙"; // Show moon for night mode
       } else {
         body.classList.add("dark-mode");
         localStorage.setItem("theme", "dark");
-        button.textContent = "🌙"; // Show moon for night mode
+        button.textContent = "☀️"; // Show sun for day mode
       }
     }
 
@@ -75,9 +79,9 @@
 
       if (savedTheme === "dark" || !savedTheme) {
         body.classList.add("dark-mode");
-        button.textContent = "🌙"; // Show moon for night mode
-      } else {
         button.textContent = "☀️"; // Show sun for day mode
+      } else {
+        button.textContent = "🌙"; // Show moon for light mode
       }
     });
   </script>
